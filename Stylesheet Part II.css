@@ -1,0 +1,51 @@
+h1{
+    color: black;
+    font-size: 120px;
+    font-family:Alfa Slab One,serif;
+}
+body{
+    background-image: url(wall.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+button{
+      
+        background-color:#f2f2f2;
+        color:black;
+        
+        padding: 10px 30px 10px 30px;
+        font-size:16px;
+        font-family:Staatliches,serif;
+        font-weight:bold;
+        border: radius 10px;
+        
+        -webkit-transition:all linear 0.30s;
+        -moz-transition:all linear 0.30s;
+        transition:all linear 0.30s;
+        align-self: center;
+        margin-top: 150px;
+    
+    
+}
+
+img{
+    width: 150px;
+    
+}
+.g {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;}
+
+    p{
+        color:black;
+        font-size: 15px;
+        font-family:Staatliches,serif;
+    }
+</style>
